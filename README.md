@@ -29,7 +29,6 @@ To support this goal, I analyzed trip data to understand how casual riders and a
 
 ## 📂 Deliverables
 - [📄 Final Slides (PDF)](slides/Cyclistic_Case_Study.pdf)
-- [📊 PowerPoint File](slides/Cyclistic_Case_Study.pptx)
 - [📈 Excel Pivot Analysis](excel/Cyclistic_Analysis.xlsx)
 
 ---
