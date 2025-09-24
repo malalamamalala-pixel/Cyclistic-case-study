@@ -27,9 +27,6 @@ To support this goal, I analyzed trip data to understand how casual riders and a
 4. Introduce weekend/short-term membership options.
 5. Partner with companies/universities for discounted memberships.
 
-## 📂 Deliverables
-- [📄 Final Slides (PDF)](slides/Cyclistic_Case_Study.pdf)
-- [📈 Excel Pivot Analysis](excel/Cyclistic_Analysis.xlsx)
 
 ---
 *This project was completed as part of the Google Data Analytics Capstone Case Study.*
